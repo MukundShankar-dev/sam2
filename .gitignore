@@ -8,4 +8,4 @@ build/*
 _C.*
 outputs/*
 checkpoints/*.pt
-video_samples
+video_samples*
